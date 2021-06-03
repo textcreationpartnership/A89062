@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius alethes: or, An humble petition of the corrupt party, dissolved at Westminster, April 20. 1653. To the present power in being. Together with a former petition, penned in the yeer 1650 for the benefit of some publique and private friends, and delivered onely in a manuscript by the same author. Wherein is much truth acknowledged, as also 1 corruption. 2 Partiality. 3 Want of charity. 4 Insolency and pride. 5 A world of self-interest</title>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89062</idno><idno type="EEBO-CITATION">99865874</idno>
+  <idno type="VID">118125</idno>
+  <idno type="EEBO-PROQUEST">2240911831</idno>
+  
+            <idno type="STC">Wing M1750</idno>
+            <idno type="STC">Thomason E725_11</idno>
+            <idno type="STC">ESTC R206768</idno>
+            <idno type="PROQUEST">99865874</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865874e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118125)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius alethes: or, An humble petition of the corrupt party, dissolved at Westminster, April 20. 1653. To the present power in being. Together with a former petition, penned in the yeer 1650 for the benefit of some publique and private friends, and delivered onely in a manuscript by the same author. Wherein is much truth acknowledged, as also 1 corruption. 2 Partiality. 3 Want of charity. 4 Insolency and pride. 5 A world of self-interest</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed neer Pauls Stable,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>"1 .. 5" on title page enclosed in brackets.</note>
+                  <note>Annotation on Thomason copy: "Decemb 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118125:1"/>
+            <p>
+               <hi>Mercurius Alethes:</hi> Or, An Humble Petition Of The Corrupt Party, Dissolved at <hi>West<g ref="char:EOLhyphen"/>minster, April</hi> 20. 1653.</p>
+            <p>To the present Power in Being.</p>
+            <p>Together With a former Petition, penned in the yeer 1650 for the benefit of some publique and private friends, and delivered onely in a Manuscript by the same Author.</p>
+            <p>Wherein is much Truth acknowledged, As also
+<list>
+                  <item>1 Corruption.</item>
+                  <item>2 Partiality.</item>
+                  <item>3 Want of Charity.</item>
+                  <item>4 Insolency and Pride.</item>
+                  <item>5 A world of self-Interest</item>
+               </list>
+            </p>
+            <q>
+               <p>Poculenta &amp; esculenta non sunt bribamenta.</p>
+            </q>
+            <q>
+               <l>Nemo sine crimine vivit,</l>
+               <l>Nemo sine briberie thrivit.</l>
+            </q>
+            <p>
+               <hi>London,</hi> printed neer <hi>Pauls</hi> Stable, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:118125:2"/>
+            <head>To the Right Honorable the Supreme Power of the Commonwealth of <hi>England:</hi> The humble Petition of the Corrupt party disbanded at <hi>Westminster, April 20. 1653.</hi>
+            </head>
+            <p>Sheweth,</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat we who have been very self-ended, and for the Publike much good pretended, the Coun<g ref="char:EOLhyphen"/>tries means much expended, &amp; in the Common<g ref="char:EOLhyphen"/>wealth few things amended, Having received many Reproaches and Obloquies from many men, and also having undergone many conflicts and checks from our own spirits within us, and being never que<g ref="char:EOLhyphen"/>stioned by the young innocent Parliament newly dissolved, ending its days in its minority, before it had done good or evil, Causeth us (Right Honorable) to address our selves unto you, in an humble Acknowledgement of our past carriages, and to become your Pe<g ref="char:EOLhyphen"/>titioners for these just and reasonable things, which we hope can<g ref="char:EOLhyphen"/>not be denied.</p>
+            <p>And first of all, whereas the Country justly and truly complain of us, That we have enriched our selves, and impoverished them; That we are many thousands the better, and they are many thou<g ref="char:EOLhyphen"/>sands the worse; That in those Times wherein Liberty and Free<g ref="char:EOLhyphen"/>dom were so much talked of, we took the liberty to get great Estates for our selves, and freed them from theirs: indeed our con<g ref="char:EOLhyphen"/>sciences do now tell us, That times of Misery and Calamity were not times for us to enrich our selves especially by the ruines of other men. And we are thus far charitably conceited of the Country, that they would have never murmured or repined at us, had we been but in <hi>statu quo</hi> as we were at the beginning of the Troubles; nay, although we had been something the better, and they some<g ref="char:EOLhyphen"/>what
+<pb n="2" facs="tcp:118125:3"/>the worse: But when we, who were intrusted to be their ser<g ref="char:EOLhyphen"/>vants, grew rich, and they grew poor, it made them justly suspect us for Thieves, and in plain terms tell us, that those large Gratui<g ref="char:EOLhyphen"/>ties which we have bestowed upon our selves and others, were not our own, but ought to be employed for the use and ease of the Commonwealth.</p>
+            <p>If by the word <hi>others</hi> you conceive this to be spoken of any of the Army, who adventured their <hi>blood</hi> when we adventured our <hi>breeches,</hi> you are mistaken: for such persons (say they) let health, happiness, and honor attend them. Onely a word by the way, with modesty and submission too, they speak. Seeing in the land of Ease, otherwise called <hi>Lubberland,</hi> the greatest wages for sleeping is but eighteen pence the day, the Country being contented that they that do double duty should have double pay, eighteen pence the day for eating, and eighteen pence the day for sleeping, which al<g ref="char:EOLhyphen"/>mounts to 1 <hi>l.</hi> 1 <hi>s.</hi> by the week; they humbly intreat such Officers of the Army who receive great pay, and are not much in action, being otherwise provided for, would content themselves with such pay, seeing many poor Country-men help to pay the same, who get their money by their hard labour, and sweat of their brows. And withal be pleased to remember, that if they that sate by the stuff when the spoil was taken at <hi>Ziklag,</hi> were to carry part of the spoil, as well as those that took the spoil; by the same Rule he that for bread plowed the field, is to carry a share of Freedom and Li<g ref="char:EOLhyphen"/>berty, as well as you that fought in field. And further they speak to you, almost in the language of tears, not to follow the example of others, to suffer a renowned Kingdom <hi>quondam,</hi> now kirsen'd <hi>Commonwealth,</hi> (whom you profess to serve in love, as your free<g ref="char:EOLhyphen"/>born Mistress) by heavie Pressures and Taxes to live in a sort of Slavery, languishing under her longing and tired hopes, after a pro<g ref="char:EOLhyphen"/>mised yeer of Jubilee, whilst ye (as the onely sons of Liberty) flou<g ref="char:EOLhyphen"/>rish in wealth and prosperity. And the poor Country-men would whisper a word more into your ears, noble Officers of the Army, in the behalf of their Clergie, not to meddle with them for taking money for studying and preaching, when ye your selves take mony for eating and sleeping.</p>
+            <p>But having made a little Digression, we must now return unto our selves, and ingenuously confess our own errors.</p>
+            <pb n="3" facs="tcp:118125:3"/>
+            <p> First of all, we profest to do much good to this Commonwealth; but in truth, we have done more good to our selves, then to the whole Commonwealth besides.</p>
+            <p>Secondly, we undertook the Reformation of this Nation: but these times have brought forth more Informers then Reformers.</p>
+            <p>Thirdly, we intituled our selves, <hi>The Keepers of the Liberties of England:</hi> and indeed so we were; for we took the Liberty, but left the Subject in bondage.</p>
+            <p>Now also we see our Partiality. We could rate a poor Coun<g ref="char:EOLhyphen"/>try-man for a small parcel of Land, when peradventure indebted for the same; or a poor Trades-man for his trade and ware in his shop, when it may be as much in the Creditors books as the worth thereof: and yet could let great Officers go free. What Contri<g ref="char:EOLhyphen"/>bution paid the Speaker for his great Office? What the Post<g ref="char:EOLhyphen"/>master-General, whose Office is now set at 10000 <hi>l. per an.</hi> at 3 <hi>d.</hi> the Letter, when formerly enjoyed by <hi>Prideaux</hi> at 6 <hi>d.</hi> the Letter <hi>gratis?</hi> What the Officers at <hi>Drury</hi>-house, <hi>Gurney</hi> house, <hi>Wor<g ref="char:EOLhyphen"/>cester</hi>-house, Goldsmiths Hall, and Haberdashers Hall, who laid up more money by the yeers end, then a Gentleman of 500 or 1000 <hi>l. per an.</hi> in Lands? Besides many Counsellors and Clerks of great practice, both at the houses above mentioned, as also in the <hi>Chancery</hi> and other Courts and yet never paid any Contribution.</p>
+            <p>But as we have been partial, so likewise very uncharitabe; nay, we have preferred works of Courtesie before works of Charity: we bestowed 50000 <hi>l.</hi> besides Lands of great worth upon our selves and friends, and never thought to relieve the poor of this Na<g ref="char:EOLhyphen"/>tion, many of them being almost ready to perish for want; and suffered many poor souldiers to languish and fall in the streets for want of pay; nay, we have dealt like Bankrupts, who many times give great Legacies by defrauding their Creditors; and have we not bestowed great means upon some persons, before we have paid the publike debts of the Nation? So also we have been very insolent and proud: many of us who heretofore were but of equal rank with our Neighbours, were grown and flown so high in those times, that we could scarce vail our bonnets to that man, although heretofore a man equal in reputation with our selves, although he came with cap in hand, and bended knee; but now we have seen by experience, that pride will have a fall: who would have ever
+<pb n="4" facs="tcp:118125:4"/>thought that we, who had a hand in the Government of this Na<g ref="char:EOLhyphen"/>tion for these many yeers, should have all our honours laid in the dust in a moment, and nothing left to support our spirits in this our condition, but onely this, which we speak with confidence to our small comfort, we never departed the House without the gene<g ref="char:EOLhyphen"/>ral love and good will of the whole Nation?</p>
+            <p>Not alone for our selves are we become Petitioners, but for all that have been in Office under us, whether they be sub-Commit<g ref="char:EOLhyphen"/>tees or other Agents; of whom a wonder may arise, as some<g ref="char:EOLhyphen"/>times those three wonders arose of the Fellows of a certain Mo<g ref="char:EOLhyphen"/>nastery in the Low-Countries, which were these: First, How the Fellows of such a house should have so much Corn and no Land. Secondly, How they could have so much mony and no revenues. But thirdly, How it was possible they should have so many chil<g ref="char:EOLhyphen"/>dren and no wives. And is it not as great a wonder to see many of our Officers, who having having heretofore had little or no estates, have in these times gotten competent estates, profess the State to be indebted unto them in considerable sums of mony, and yet march under the colours of honest men?</p>
+            <p>But now we fear that all the Estates we have gotten in these times, will prove but <hi>Aurum Tolossanum</hi> like the gold of <hi>Tolosse,</hi> that eats up all the rest of the gold that it's put into, or will prove like <hi>Sejus</hi> horse in the story, fatal to the rider. Alas, what if we leave unto our posterity estates got in times of misery and calamity, and that to a whole Nation; when there was a spirit of Division, as a judgement fallen from heaven upon this poor Island of ours, that for eight pence the day many thousands were hired to cut the throats, not alone of forraigners and strangers, but of their own Country-men, nay their own natural brethren; nay, the fathers against the sons, and the sons against the father?</p>
+            <p>This day we call to minde the saying of <hi>Elisha</hi> the Prophet to that Committee-man <hi>Gehazi: Is this a time to take gratuities and changes of rayment?</hi> Was this a time for us to enrich our selves, when this nation lay under a general calamity, when many thousands of our Country-men could take no comfort either in bed or boord; when the word <hi>House ho!</hi> like a sudden Thunder<g ref="char:EOLhyphen"/>clap struck terror and amazement to all the inhabitants that heard it; when the condition of thousands carried with it a sutable re<g ref="char:EOLhyphen"/>semblance
+<pb n="5" facs="tcp:118125:4"/>of that threatned curse and cross: <hi>At evening thou shalt say, Ah, would it were morning; and at morning thou shalt say, Ah, would it were evening, for the fear that shall come upon thee:</hi> when men were forc'd to leave house, children, wife, and goods, and for refuge and shelter betake themselves to dens, fields, caves, and woods: when many poor Country-men, some of them too who assisted us with purse and person, had not a beast left in field or fold, for Plough or Pail: Was this a time for us to enrich our selves, when there were so many objects of pity, so many families by fire made harbourless, so many wives by loss of husbands left headless, so many parents childless, so many children fatherless &amp; many of them breadless? <hi>Monstrū horrendū informe ingens,</hi> &amp;c. Oh monstrous, horrible, unnatural men, fie upon us.</p>
+            <p>But what will our posterity say hereafter? Oh, saith one, My father left me a Linsey-woolsey estate, and patcht up by the ruines of other men, gotten in bloody times; when in this Land there was not onely <hi>Accldama,</hi> a field of blood, but the Land it fell was <hi>Gee Haimatos,</hi> a land of blood: it never prospered with any of us: I had much rather he had left me an Ax, Spade, or Threshal, accompanied with a blessing; for I fear, what was got upon the devils belly, will go away upon his back.</p>
+            <p>Oh that we had followed the practice of noble <hi>Nehemiah</hi>'s Excellencie; Excellencie! not titular, nor real: for,</p>
+            <p>First, he was a man of a very publike spirit; he would not eat the bread of the people, nor be chargeable unto them: he freed the people from their Oppression, but not from their Lands.</p>
+            <p>Secondly, he was a very good Church-man; he built the walls of <hi>Jerusalem.</hi>
+            </p>
+            <p>Thirdly, he was a very vigilant souldier; he held the spear with one hand, and built with the other hand: very industrious, and yet professeth, that in twelve yeers he bought not any Land: and we dare affirm thus of him; He would have proved an admirable Parliament-man, had he been well fellowed.</p>
+            <p>Now seeing that we cannot but really acknowledge the truth of the premises, and seeing the urgencie of your occasions for the pay<g ref="char:EOLhyphen"/>ment of the Navie at sea require great sums of money; be pleased to accept at our hands the sum of five hundred thousand pounds, which may very well be spared by us and our Officers, which is
+<pb n="10" facs="tcp:118125:5"/>conceived not to be the one halfe of what we have got in these distracted times. Loath we are to part with all, because our wives and children cannot go in that hansome garbe, as they have done since these troublesome times began: and whereas old <hi>Augustine</hi> is ready to stare in the face of our consciences, with his <hi>Non remit<g ref="char:EOLhyphen"/>titur peecatum nisi restituatur ablatum,</hi> the fault cannot be re<g ref="char:EOLhyphen"/>mitted, unless restitution be made; as we conceive the means of the whole, if there be ability: we hope we shall be able to smother Conscience and throw dust in his eyes, by telling him that indeed it was truth in his time, according to that light that he saw acting under a low dispensation, but it doth not so much concern us who are carried up in higher administrations in these times of more knowledge.</p>
+            <p>And whereas we use the words, <hi>accept at our hands,</hi> we intreat you to take it gently, because our monies stick to our hearts, and you can hardly take a pound, but it will bring a piece of the heart with it: but rather then go without it, <hi>rape,</hi> take it by violence, al<g ref="char:EOLhyphen"/>though therewith you pull out heart and all.</p>
+            <p>If you will not accept of it upon the former terms, borrow it of us upon your engagement never to pay it to us, or our posterity; or, Secondly, Which is as good, upon the publike Faith. Or thirdly, That it may be the last debt that ever shall be paid upon the publike.</p>
+            <p>And in so doing, you shall be extreamly honoured, and appaer eminent in the hearts and eys of all the people of the Nation, and if you think fit and convenient, they shall solemnize a day of Thanksgiving for it.</p>
+            <p>And lastly, you shall thereby make us contrary in opinion to an eminent Members wife of our house, Mistriss <hi>L.</hi> who within these few yeers said, <hi>If she were assured of Heaven when she di<g ref="char:EOLhyphen"/>ed, by her good will she would not go thither as yet.</hi>
+            </p>
+            <p>Take from us the forementioned sum, you shall wean us from the love of the world, make us more fit for Heaven,</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioners shall ever pray,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:118125:5"/>
+            <head>The Petition penned in the yeer 1650.</head>
+            <head>To the Right honourable the Commons of <hi>England</hi> in Parliament assembled. The humble Petition of many Committee-men, Excise-men, Se<g ref="char:EOLhyphen"/>questrators, Gullectors, and others employed in the publike service for the private wealth,</head>
+            <p>Sheweth,</p>
+            <p>THat we who have been long base and knavish, and for the present scarce honest, and for the future promise never to be much better, are become Petitior ners for these ensuing particulars, which we conceive to some of you can seem but just and necessary.</p>
+            <p>But because we would have the better success in the particulars concerning our selves, we shall first of all present you with an humble motion in the behalf of the Clergy.</p>
+            <p>First, That no Clergy man under any pretence what<g ref="char:EOLhyphen"/>soever, upon plea of any Priviledge, or of his Pedi<g ref="char:EOLhyphen"/>gree, as being of the Tribe of <hi>Gad,</hi> or under pretence of love to his Native Country, or for wholsom ayre for himself, or his wife, shall accept of any Call to re<g ref="char:EOLhyphen"/>move from a Parsonage or Vicaridge, worth 2, 3, or 400 l. <hi>per ann.</hi> to a living of 30, 40, or 50 l. <hi>per annum.</hi>
+            </p>
+            <p>That you would be pleased to pass an Act to enforce them to love those souls best, where there is best main<g ref="char:EOLhyphen"/>tenance, and to preach rather for a competency for themselves, then for an extent of Charity to the poor.</p>
+            <p>That you would cause some of the sacred Synod,
+<pb n="8" facs="tcp:118125:6"/>who are well acquainted with the Original and Pra<g ref="char:EOLhyphen"/>ctical part of the ensuing Text, being a Dutch Pro<g ref="char:EOLhyphen"/>verbe, to translate the said Proverbe into the English Tongue, for the benefit of their weaker brethren.</p>
+            <p>
+               <hi>Pfaffen Gierechiet, undt Gottos Barmhertsechiet, weret von nua bis en Ewechiet:</hi> Which the rude and common sort of people, or vulgar translation reads thus; <hi>Priests covetousness, and Gods goodness endure for ever.</hi>
+            </p>
+            <p>And now we shall present you with things concern<g ref="char:EOLhyphen"/>ing our selves and State, and shall humbly crave, that we who have been employed in the publike service, for the private wealth as aforesaid, may continue our em<g ref="char:EOLhyphen"/>ployment, for that its conceived we are more expert therein, (having served an Apprenticeship to the Trade) then others who are but Novices to the pro<g ref="char:EOLhyphen"/>fession thereof.</p>
+            <p>Secondly, That in our places we may enjoy our former Priviledges, as to instance in one for all, when the Practice of the Law, and the Office of a Com<g ref="char:EOLhyphen"/>mittee shal concur both in one person, it may be law<g ref="char:EOLhyphen"/>ful for that person to take a fee, as he is a practitioner of the Law, although he sit Chair-man at the Com<g ref="char:EOLhyphen"/>mittee, when the cause shall be heard, because its found by experience many times, the Clyent speeds never the worse.</p>
+            <p>Thirdly, That we may prefer our own private good and interest, before the publike good of the Commonwealth, because Charity begins at home; and under the Rose be it spoken, our hopes are, we shall the rather prevail, for that as we conceive, and as we have been truly informed, there be among you who practice the same; and therefore we do desire still to continue under the command of Major General Self.</p>
+            <pb n="9" facs="tcp:118125:6"/>
+            <p> Next, whereas the Country murmur and repine at the large gratuities, great salaries and sums of mony conferred by you on some men for small service, and on the first day of Saint Charity, proved kinde heart<g ref="char:EOLhyphen"/>ed each to other, in bestowing the Commonwealths means and monies upon your selves, when as by the just Verdict of the Country you were but Trustees in the behalf of the State, and had no more lawful pow<g ref="char:EOLhyphen"/>er to dispose of the States mony to your selves, then Trustees for poor Orphans have to dispose of the said Orphans goods to their own proper use: Yet we humbly crave that your honours would be pleased to continue and keep what you have received, with<g ref="char:EOLhyphen"/>out any revocation, or the least admission of any re<g ref="char:EOLhyphen"/>tribution or repayment; because the old Tenet for<g ref="char:EOLhyphen"/>merly held in some cases in the Chancelors Court, is become new in practice, <hi>Quod fieri non debuit factum va<g ref="char:EOLhyphen"/>let.</hi> Gentlemen you have it, and I beseech you keep it.</p>
+            <p>That from the Country there may be likewise a continuance of that extraction of the Spirits of Whey, Whig, Butter-milk, Crab-drink, Pound-perkin, the washing of Apple husks, Bonnyclaver, Carawhibble, Water bewitcht, commonly called small drink, being principal ingredients in that Confection of 1500 l. <hi>per ann.</hi> for that honorable Officer the Auditor of the Ex<g ref="char:EOLhyphen"/>cise; and proportionable quantities we humbly crave for the rest of the Fraternity and other Officers, who are now become the Tribe of fortune, whilst many of our poor brethren, in this our English Nation, who in the prime yeers of their new Liberties and Freedoms, I may not say of <hi>Cham</hi>'s curse, but of <hi>Issachars</hi> bles<g ref="char:EOLhyphen"/>sing being fully possest, are become a Tribe of
+<pb n="10" facs="tcp:118125:7"/>
+               <hi>Many-Asses,</hi> as sensible of their pressures and bon<g ref="char:EOLhyphen"/>dage, as <hi>Balaams</hi> Ass of his burthen and blows, spea<g ref="char:EOLhyphen"/>king almost with a whining tone, by reason of their oppression, like the poor French, groaning and sigh<g ref="char:EOLhyphen"/>ing, <hi>Ha, ha,</hi> the Parliament, <hi>&amp;c.</hi>
+            </p>
+            <p>That there may be likewise an utter abolition and extirpation of all Common-Prayer, as well out of Hedges as Churches; for its very well known, that not any of us can go about our publike imployments, but the hedges are lined with Common-Prayer, for seven miles together, the forms whereof are these:
+<list>
+                  <item>There goes a Teaser, <hi>a pox take him.</hi>
+                  </item>
+                  <item>There goes a Sequestrator, <hi>a Plague consume him.</hi>
+                  </item>
+                  <item>There goes a Committee-man, <hi>Would he and all his fellows were hanged.</hi>
+                  </item>
+                  <item>There goes an Excise-man, <hi>The Devil-braek his neck.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Lastly, Whereas it is the humble and hearty desire of the Country, that a just and strict account may be called for and taken of us, who are employed as afore<g ref="char:EOLhyphen"/>said, forasmuch as we account that a thing both vain and frivolous, and a mispending of precious time, our humble and hearty desire is, that no just and true ac<g ref="char:EOLhyphen"/>count may be given until the day of judgement; and then both you and we shall all account together.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioners shall ever pray,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="note">
+            <p>Calculated for the Meridian of <hi>London</hi> and <hi>Weminster,</hi> where knavery is elevated above honesty three Degrees: but may ge<g ref="char:EOLhyphen"/>nerally serve for all <hi>England.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Perlege hunc Tractatum cui Titulus</hi> An humble Petition, <hi>in quo nihil reperio veritati contrarium.</hi>
+            </p>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>Ralph Wallis.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
